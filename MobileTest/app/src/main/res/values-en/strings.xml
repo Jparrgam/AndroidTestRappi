@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_splash_title">Android Developer test Rappi!!</string>
+    <string name="_validate_connect">You do not have internet connection</string>
+    <string name="_details_item">Click on the image to see the details</string>
+</resources>
